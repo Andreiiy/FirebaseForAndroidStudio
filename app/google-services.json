@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844471758089",
+    "firebase_url": "https://testdatabase-6520d.firebaseio.com",
+    "project_id": "testdatabase-6520d",
+    "storage_bucket": "testdatabase-6520d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844471758089:android:7f00ce121f853517dbb7d8",
+        "android_client_info": {
+          "package_name": "com.example.email_password_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844471758089-h7uij9gj548fvt1g62jm11fbift2kuq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfMYMy0R2n1uXrMtlOmtPFdUit81Vy9k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844471758089-h7uij9gj548fvt1g62jm11fbift2kuq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
